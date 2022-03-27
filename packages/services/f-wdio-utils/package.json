@@ -31,7 +31,7 @@
     "extends @justeat/browserslist-config-fozzie"
   ],
   "dependencies": {
-    "@justeat/f-services": "1.7.0"
+    "@justeat/f-services": "1.8.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "4.4.6",
