@@ -45,7 +45,7 @@
     "extends @justeat/browserslist-config-fozzie"
   ],
   "dependencies": {
-    "@babel/plugin-proposal-class-properties": "7.12.13",
+    "@babel/plugin-proposal-class-properties": "7.18.6",
     "@justeat/f-services": "1.0.1",
     "core-js": "3.6.5"
   },
