@@ -38,7 +38,7 @@
   "dependencies": {
     "crypto-js": "4.0.0",
     "jwt-decode": "^3.1.2",
-    "universal-cookie": "^4.0.4"
+    "universal-cookie": "^7.2.1"
   },
   "devDependencies": {
     "core-js": "3.6.5",
