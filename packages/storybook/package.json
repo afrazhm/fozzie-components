@@ -10,7 +10,7 @@
   "dependencies": {
     "http-server": "0.12.3",
     "vue": "2.6.10",
-    "vue-i18n": "8.22.1"
+    "vue-i18n": "9.14.5"
   },
   "devDependencies": {
     "@justeat/f-http": "0.8.0",
