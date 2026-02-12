@@ -121,6 +121,6 @@
     "packages/tools/*"
   ],
   "dependencies": {
-    "browserstack-local": "1.4.8"
+    "browserstack-local": "1.5.10"
   }
 }
